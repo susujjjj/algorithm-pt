@@ -1,1 +1,5 @@
 # algorithm-pt
+
+
+|------|---|---|
+|HappyNumber|easy|🟡|
