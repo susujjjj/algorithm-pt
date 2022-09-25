@@ -1,5 +1,5 @@
 # algorithm-pt
 
-
-|------|---|---|
-|HappyNumber|easy|🟡|
+| problem     | level | 🤔  |
+| ----------- | ----- | --- |
+| HappyNumber | easy  | 🟡  |
