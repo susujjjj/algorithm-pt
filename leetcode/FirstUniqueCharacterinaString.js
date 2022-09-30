@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/first-unique-character-in-a-string/
 //return index
 //1
 //s = "leetcode" -> return 0.
